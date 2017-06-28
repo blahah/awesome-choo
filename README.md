@@ -109,6 +109,7 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 - [kaktus](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 - [civicdr.org](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
 - [nekocafe](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:.
+- [ScienceFair](https://github.com/codeforscience/sciencefair) - p2p desktop science library made with `choo` and [`dat`](https://github.com/datproject/dat)
 
 ### License
 
